@@ -16,12 +16,7 @@ Medusa = Client(
 )
 
 
-PMTEXT = (
-    "<a href='https://en.wikipedia.org/wiki/Medusa'>**Medusa**</a> is a Greek mythology.\n"
-    "__Generally described as winged human females with living venomous snakes in place of hair."
-    " Those who gazed into her eyes would turn to stone.\nThe word '**Mousiki**' is the Greek word for"
-    " '**Music**'.__\n\n**However, I can download youtube songs for u immediately :)**\n__Check **help** to see the usage__"
-)
+PMTEXT = ("👋 Salam\n⚡ Mən 🎧 _ 𝐒 𝐎 𝐍 𝐆 _ 𝐁 𝐎 𝐓 Musiqi Yükləmə Botuyam\n🎧 Mənim Vasdəm İlə İsdənilən Musiqini Yükləmək Mümkündür\n📚 Əmrlərlə Tanış Olmaq Üçün ƏMRLƏR Butonuna Toxun")
 PMKEYBOARD = InlineKeyboardMarkup(
     [
         [
