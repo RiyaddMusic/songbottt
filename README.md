@@ -51,7 +51,7 @@
 
 - Clone the repo
 ```sh
-$ git clone https://github.com/bibee-emio/MedusaMusic
+$ git clone https://github.com/vusaldi/songbottt
 ```
 - Change the Directory
 ```sh
@@ -74,7 +74,7 @@ $ python3 medusa.py
 - Fork the repo
 - Just click the button below & follow the steps
 
-<a href="https://heroku.com/deploy?template=https://github.com/bibee-emio/medusamusic">
+<a href="https://heroku.com/deploy?template=https://github.com/vusaldi/songbottt">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"
   style="padding:35px">
 </a>
