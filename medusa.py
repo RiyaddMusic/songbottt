@@ -21,12 +21,12 @@ PMKEYBOARD = InlineKeyboardMarkup(
     [
         [
             InlineKeyboardButton(
-                'Help ❓', callback_data='help_callback'),
-            InlineKeyboardButton('About ❕', callback_data='about')
+                '📚 ƏMRLIR', callback_data='help_callback'),
+            InlineKeyboardButton('ℹ MƏLUMAT', callback_data='about')
         ],
         [
             InlineKeyboardButton(
-                'Add me to a group 🎊', url='http://t.me/MedusaMousikibot?startgroup=true')  # Replace the `MedusaMousikibot` with your bot username
+                '➕《 MƏNİ QRUPA DƏVƏT ET 》 ➕', url='http://t.me/Songdowbot?startgroup=true')  # Replace the `MedusaMousikibot` with your bot username
         ]
     ]
 )
