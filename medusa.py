@@ -16,7 +16,7 @@ Medusa = Client(
 )
 
 
-PMTEXT = ("👋 Salam\n⚡ Mən 🎧 _ 𝐒 𝐎 𝐍 𝐆 _ 𝐁 𝐎 𝐓 Musiqi Yükləmə Botuyam\n🎧 Mənim Vasdəm İlə İsdənilən Musiqini Yükləmək Mümkündür\n📚 Əmrlərlə Tanış Olmaq Üçün ƏMRLƏR Butonuna Toxun")
+PMTEXT = ('👋 Salam\n⚡ Mən 🎧 _ 𝐒 𝐎 𝐍 𝐆 _ 𝐁 𝐎 𝐓 Musiqi Yükləmə Botuyam\n🎧 Mənim Vasdəm İlə İsdənilən Musiqini Yükləmək Mümkündür\n📚 Əmrlərlə Tanış Olmaq Üçün ƏMRLƏR Butonuna Toxun')
 PMKEYBOARD = InlineKeyboardMarkup(
     [
         [
@@ -30,12 +30,8 @@ PMKEYBOARD = InlineKeyboardMarkup(
         ]
     ]
 )
-HELPTEXT = (
-    '**Help Menu:**\n\nIf u need to download a song,'
-    ' u should follow the syntax shown as below.\n\n'
-    '•`/song <name of the song>`\n\nIf u need to extract lyrics,'
-    ' follow the syntax shown as bellow.\n\n•`/lyrics <query>`'
-)
+HELPTEXT = ('📚 ƏMRLƏR MENUSU\n🔹️ Aşağdakı Əmrləri İzləyin\n⚡ **ƏMRLƏR*/n• /song - Musiqi Adı Yada YouTube  Linki\n• /lyrics - İsdənilən Musiqinin Sözlərin Yükləyər\n• /info - YouTube dən Musiqi Məlumatı Alın')
+
 ABOUTTEXT = (
     "**Name** : MedusaMusic🎵\n**Username** : MedusaMousikibot\n**Description**"
     " : <a href='https://en.wikipedia.org/wiki/Medusa'>**Medusa**</a> is a Greek"
