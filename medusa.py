@@ -26,14 +26,14 @@ PMKEYBOARD = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton(
-                '➕《 MƏNİ QRUPA DƏVƏT ET 》 ➕', url='http://t.me/Songdowbot?startgroup=true')  # Replace the `MedusaMousikibot` with your bot username
+                '➕《 MƏNİ QRUPA DƏVƏT ET 》 ➕', url='http://t.me/ZionSongbot?startgroup=true')  # Replace the `MedusaMousikibot` with your bot username
         ]
     ]
 )
 HELPTEXT = ('📚 ƏMRLƏR MENUSU\n🔹️ Aşağdakı Əmrləri İzləyin\n⚡ **ƏMRLƏR*/n• /song - Musiqi Adı Yada YouTube  Linki\n• /lyrics - İsdənilən Musiqinin Sözlərin Yükləyər\n• /info - YouTube dən Musiqi Məlumatı Alın')
 
 ABOUTTEXT = (
-    "**Name** : MedusaMusic🎵\n**Username** : MedusaMousikibot\n**Description**"
+    "**Name** : Zionusic🎵\n**Username** : ZionMusicbot\n**Description**"
     " : <a href='https://en.wikipedia.org/wiki/Medusa'>**Medusa**</a> is a Greek"
     " mythology.\n__Generally described as winged human females with living"
     " venomous snakes in place of hair. Those who gazed into her eyes would"
